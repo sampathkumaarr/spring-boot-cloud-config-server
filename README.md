@@ -11,4 +11,4 @@
 
 # Enabling security:
   spring.security.user.name=root
-  spring.security.user.password=s3cr3t  
+  spring.security.user.password=s3cr3t 
